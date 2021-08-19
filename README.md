@@ -15,7 +15,7 @@ The dataset we will primarily use is "character-deaths.csv", a list of the 917 c
 This is a direct grab of the "character-deaths.csv" from Erin Pierce and Ben Kahle. This dataset was created as a part of their Bayesian Survival Analysis which can be found here: http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html. Thanks, Erin and Ben!
 
 
-#Thrones Pre-Processing is the code for to compute just the chapter span data. If you want to branch out and conduct your own analysis, then this is the place for you.
+#Thrones Pre-Processing is the code used to compute just the chapter span data. If you want to branch out and conduct your own analysis, then this is the place for you.
 
 
 #Thrones Final Code is my full code to follow along with my blog posts (https://peterbarston.blogspot.com/2021/08/collating-game-of-thrones-survival.html). These highlight specific findings and generally are great practice in GGPLOT and Tidyverse.
