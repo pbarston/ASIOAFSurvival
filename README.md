@@ -11,6 +11,8 @@ The dataset is a list of the 917 characters identified in the first five books a
 
 Please see my full code for the steps to complete as well as my blog (www.bitly.com/pbarston) for specific findings.
 
+Please see the pre-processing code to get just the chapter spans data to branch out on your own.
+
 Where would you take the analysis next? Will GRRM ever publish? Reach out to me and let me know!
 
 
