@@ -7,7 +7,7 @@ Over the course of multiple weeks over at my blog (https://peterbarston.blogspot
 
 There are a few files in this repository:
 
-#DATA contains the primary dataset as well as two additional datasets.
+#Data contains the primary dataset as well as two additional datasets.
 Special thanks to the work done by Myles O'Neill to compile these here (https://www.kaggle.com/mylesoneill/game-of-thrones).
 
 The dataset we will primarily use is "character-deaths.csv", a list of the 917 characters identified in the first five books along with their house allegiances (if noted), information on their death (year, book, chapter), the chapter of their first appearance, and some biographical info (gender, nobility) as well as a boolean appear/not appear in each of the five books.
