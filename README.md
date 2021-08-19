@@ -21,7 +21,7 @@ This is a direct grab of the "character-deaths.csv" from Erin Pierce and Ben Kah
 #Thrones Final Code is my full code to follow along with my blog posts (https://peterbarston.blogspot.com/2021/08/collating-game-of-thrones-survival.html). These highlight specific findings and generally are great practice in GGPLOT and Tidyverse.
 
 
-Where would you take the analysis next? Will GRRM ever publish? Reach out to me and let me know!
+Where would you take the analysis next? Will GRRM ever publish again? Reach out to me and let me know!
 
 
 
