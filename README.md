@@ -1,4 +1,4 @@
-# ASIOAFSurvival
+# ASOIAF Survival
 Survival Analysis for George R.R. Martin's ASOIAF Universe
 
 I figured the best way to keep my coding skills sharp this summer would be to put them to the ultimate test: making sense of all that bloodletting in George R.R. Martin's "A Song of Ice and Fire" universe. 
