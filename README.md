@@ -9,7 +9,7 @@ Special thanks to the work done by Myles O'Neill to compile a few disparate data
 
 The dataset is a list of the 917 characters identified in the first five books along with their house allegiances (if noted), information on their death (year, book, chapter), the chapter (but importantly, not the book) of their first appearance, and some biographical info (gender, nobility) as well as a boolean appear/not appear in each of the five books.
 
-Please see my full code for the steps to complete as well as my blog (bitly.com/pbarston) for specific findings.
+Please see my full code for the steps to complete as well as my blog (www.bitly.com/pbarston) for specific findings.
 
 Where would you take the analysis next? Will GRRM ever publish? Reach out to me and let me know!
 
